@@ -11,22 +11,22 @@
 	},
 	"fip": {
 		"start": 13312,
-		"end": 17407,
+		"end": 21503,
 		"unique_part_guid": "{18de6587-4f17-4e08-a6c9-d9d3d424f4c5}"
 	},
 	"kernel": {
-		"start": 17408,
-		"end": 82943,
+		"start co": 21504,
+		"end": 152575,
 		"unique_part_guid": "{971f7556-ef1a-44cd-8b28-0cf8100b9c7e}"
 	},
 	"rootfs": {
-		"start": 82944,
-		"end": 607231,
+		"start": 152576,
+		"end": 2249727,
 		"unique_part_guid": "{309a3e76-270b-41b2-b5d5-ed8154e7542b}"
 	},
 	"permanent_config": {
-		"start": 607232,
-		"end": 239682559,
+		"start": 2249728,
+		"end": 122126302,
 		"unique_part_guid": "{5f73ef09-196e-4847-be1e-69f2bd87e8b1}"
 	}
 }
